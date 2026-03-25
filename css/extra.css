@@ -12,6 +12,7 @@ body {
 .navbar-brand,
 .form-control {
     font-size: 1em;
+    background-color: #3C864F !important;
 }
 
 .navbar-brand {
