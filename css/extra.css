@@ -65,7 +65,7 @@ body.homepage .navbar-brand small {
 .banner {
     margin: 1rem 0 2.5rem;
     padding: 2.75rem 3rem;
-    background: #3C864F;
+    background: #3C864F !important;
     color: #fff;
     font-size: 1.1em;
     font-weight: bold;
