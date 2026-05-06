@@ -14,13 +14,13 @@ th, td {
 
 /* Header shading */
 th {
-  background-color: #4a90d9;
+  background-color: #3d854e;
   color: white;
 }
 
 /* Alternating row shading (zebra stripes) */
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: #ffffff;
 }
 
 tr:hover {
